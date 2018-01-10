@@ -11,18 +11,19 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="page-header bg-danger">
-                <h1>Desenvolvimentoem ASP.net MVC
-                <small class="text-danger"> Utilizando o Bootstrap</small></h1>
+            <div class="page-header bg-info">
+                <h1 class="display text-center">Desenvolvimento em ASP.net MVC
+                <small class="text-info"> Utilizando o Bootstrap</small></h1>
             </div>
         </div>
         <div class="row">
-            <div class="col-xs-3 col-md-03 bg-success">
-                <ul class="nav nav-pills nav-stacked" >
+            <div class="col-xs-12 col-md-12 bg-success">
+
+                <ul class="nav nav-pills">
                     <li role="presentation" class="active">
                         <a href="#">Home</a>
                     </li>
-                    <li role="presentation" >
+                    <li role="presentation">
                         @Html.ActionLink("Categorias", "Index", "Categorias")
                     </li>
                     <li role="presentation">
@@ -30,16 +31,20 @@
                     </li>
                 </ul>
             </div>
+        </div>
+        <br />
+        <div class="row">
             <div class="col-xs-9 col-md-9">
                 @RenderBody()
             </div>
         </div>
+            
+       
         <br />
         <div class="row">
-            <div class="col-xs-12 col-md-12 bg-danger">
-                <small>Layout com bootstrap</small>
-            </div>
-            x   
+            <div class="col-xs-12 col-md-12 bg-info">
+                <h6 class="text-info text-center">Layout com bootstrap - 2018</h6>
+            </div>   
         </div>
     </div>    
 

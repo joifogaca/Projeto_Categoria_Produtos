@@ -1,15 +1,15 @@
-C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\VBCSCompiler.exe
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\ApplicationInsights.config
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\csc.exe
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\Microsoft.CodeAnalysis.dll
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\Microsoft.CSharp.Core.targets
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\Microsoft.VisualBasic.Core.targets
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\System.Reflection.Metadata.dll
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\vbc.exe
+C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\VBCSCompiler.exe
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\Projeto_CategoriaProdutos.dll.config
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\Projeto_CategoriaProdutos.dll
@@ -47,3 +47,4 @@ C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_Cate
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\bin\System.Web.Mvc.xml
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\obj\Debug\Projeto_CategoriaProdutos.dll
 C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\obj\Debug\Projeto_CategoriaProdutos.pdb
+C:\Users\joifo\OneDrive\Documentos\GitHub\Projeto_CategoriaProdutos\Projeto_CategoriaProdutos\obj\Debug\Projeto_CategoriaProdutos.csprojResolveAssemblyReference.cache
